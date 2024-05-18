@@ -51,6 +51,5 @@ EOF  help  quit
 ```
 
 ## Authors
-* **Michael Oni** - *Software Engineer* - [@TheOnis](https://github.com/TheOnis)
+* **Paul Mercy** - *Software Engineer* - [@paulmehmet](https://github.com/paulmehmet)
 
-* **Oliver Njeru** - *Software Engineer* - [@olivernjerus](https://github.com/olivernjeru)
